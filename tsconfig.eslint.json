@@ -1,0 +1,16 @@
+{
+  "extends": "./packages/tsconfig/base.json",
+  "include": [
+    "packages/**/src/**/*.ts",
+    "packages/**/src/**/*.tsx",
+    ".eslintrc.js",
+    "packages/**/jest.config.js",
+    "packages/**/jest.setup.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/dist",
+    "**/jina-ai/**/*",
+    "**/example/**/*"
+  ]
+}

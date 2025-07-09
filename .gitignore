@@ -137,3 +137,7 @@ logs
 # Temporary files
 tmp/
 temp/ 
+
+.gemini.json
+
+.env
