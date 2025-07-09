@@ -35,6 +35,9 @@ importers:
       undici:
         specifier: ^7.11.0
         version: 7.11.0
+      zod:
+        specifier: ^3.25.76
+        version: 3.25.76
     devDependencies:
       '@types/node':
         specifier: ^24.0.12
