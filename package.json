@@ -10,14 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langchain/community": "^0.3.48",
     "@langchain/core": "^0.3.62",
     "@langchain/google-genai": "^0.2.14",
     "@langchain/google-vertexai": "^0.2.14",
     "@langchain/langgraph": "^0.3.7",
     "@langchain/openai": "^0.5.18",
+    "@langchain/tavily": "^0.1.4",
     "dotenv": "^17.1.0",
     "openai": "^5.8.3",
     "path": "^0.12.7",
+    "playwright": "^1.53.2",
     "undici": "^7.11.0",
     "zod": "^3.25.76"
   },

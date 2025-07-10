@@ -29,5 +29,6 @@ export const ExecState = Annotation.Root({
   task: Annotation<string>(),
   gaps: Annotation<Array<string>>(),
   report: Annotation<SubReport>(),
+  sources: Annotation<Array<Source>>(),
   all_sources: Annotation<Array<Source>>(),
 });

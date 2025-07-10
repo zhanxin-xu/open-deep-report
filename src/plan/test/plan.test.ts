@@ -1,7 +1,7 @@
 import { Plan } from "..";
 
 Plan({
-  user_input: `Act as a senior cryptocurrency analyst. Conduct a fundamental and market analysis for Polkadot(DOT) , a newly listed digital asset. **Output must be a cohesive written report** using formal business language. Structure content strictly according to these sections:  
+  user_input: `Act as a senior cryptocurrency analyst. Conduct a fundamental and market analysis for SUI , a newly listed digital asset. **Output must be a cohesive written report** using formal business language. Structure content strictly according to these sections:  
 
 ### **Step 1: Project Fundamental Analysis**  
 **Data Requirements**:  
