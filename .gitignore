@@ -141,3 +141,5 @@ temp/
 .gemini.json
 
 .env
+# LangGraph API
+.langgraph_api
